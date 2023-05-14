@@ -44,7 +44,7 @@ class Neurona
 // Constructores de la clase Neurona //
 
 //Neurona::Neurona(){}
-/*
+
 Neurona::Neurona(const Neurona& n)
 {
     id = n.id;
@@ -55,7 +55,7 @@ Neurona::Neurona(const Neurona& n)
     green = n.green;
     blue = n.blue;
 };
-*/
+
 
 class MainWindow : public QMainWindow
 {
